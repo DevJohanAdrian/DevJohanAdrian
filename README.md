@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="./github-header.png"  />
+  <img  src="./Black Technology LinkedIn Banner.png"  />
 </div>
 
 ###
