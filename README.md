@@ -91,6 +91,7 @@
 <div align="left">
 ![](https://github-readme-stats.vercel.app/api?username=devjohanadrian&theme=react&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjohanadrian&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+</div>
 <div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devjohanadrian&theme=react&hide_border=true)
 ---
