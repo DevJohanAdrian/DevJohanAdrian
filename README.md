@@ -123,10 +123,12 @@
 </div> -->
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevJohanAdrian&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevJohanAdrian&theme=react&hide_border=true)<br/>
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DevJohanAdrian&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJohanAdrian&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevJohanAdrian&theme=react&hide_border=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
