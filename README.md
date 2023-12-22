@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi welcome to my githud profile 👋 </h1>
+<h1 align="center">Hi welcome to my github profile 👋 </h1>
 
 ###
 
@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left"> I am a passionate fullstack programmer with 5 years of experience and this is my githud profile. ✨ </p>
+<p align="left"> I’m a passionate fullstack programmer with 5 years of experience and this is my github profile. ✨ </p>
 
 ###
 <ul>
-<li>🌱 I am currently improving and learning more about backend development.</li>
+<li>🌱 I’m currently improving and learning more about backend development.</li>
 <li>📫 What is the best way to contact me? <a href="https://www.linkedin.com/in/johan-marin-7ba535129/">Linkedin</a></li>
 <li>⚡ Fun fact: I’m a music lover. i listen to music all the time. Did you know that in Spanish it is called melomano ? </li>
 <li>🤜🏻🤛🏻 I’m looking to collaborate on JavaScript based projects.</li>
