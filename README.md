@@ -19,7 +19,7 @@
 <li>🌱 I’m currently improving and learning more about backend development.</li>
 <li>📫 What is the best way to contact me? <a href="https://www.linkedin.com/in/johan-marin-garcia/">Linkedin</a></li>
 <li>⚡ Fun fact: I’m a music lover. i listen to music all the time. Did you know that in Spanish it is called melomano ? </li>
-<li>🤜🏻🤛🏻 I’m looking to collaborate on JavaScript based projects.</li>
+<li>🤜🏻🤛🏻 I’m looking to collaborate on JavaScript and .NET CORE based projects</li>
 </ul>
 
 
@@ -58,18 +58,33 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
 
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" alt="c# logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker logo" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
- 
+  <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" height="40" alt="swagger logo"  />
+  <img width="12" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" height="40" alt="Vite" title="Vite"/>
+  <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" height="40" alt="net core logo" title="net core"/>
+  <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="40" alt="postgre logo" title="postgre"/>
+  <img width="12" />
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" height="40" alt="redux logo" title="redux"/>
+  <img width="12" />
+    <img src="https://techstack-generator.vercel.app/storybook-icon.svg" height="40" alt="storybook logo" title="storybook"/>
+  <img width="12" />
+     <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" height="40" alt="testing library logo" title="testing library"/>
+  <img width="12" />
+
 
 
 
