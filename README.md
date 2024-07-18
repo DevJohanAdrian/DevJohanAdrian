@@ -17,7 +17,7 @@
 ###
 <ul>
 <li>🌱 I’m currently improving and learning more about backend development.</li>
-<li>📫 What is the best way to contact me? <a href="https://www.linkedin.com/in/johan-marin-7ba535129/">Linkedin</a></li>
+<li>📫 What is the best way to contact me? <a href="https://www.linkedin.com/in/johan-marin-garcia/">Linkedin</a></li>
 <li>⚡ Fun fact: I’m a music lover. i listen to music all the time. Did you know that in Spanish it is called melomano ? </li>
 <li>🤜🏻🤛🏻 I’m looking to collaborate on JavaScript based projects.</li>
 </ul>
